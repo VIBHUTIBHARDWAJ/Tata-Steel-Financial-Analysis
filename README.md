@@ -102,7 +102,7 @@ Step 4 — Explore using the Year slicer and navigation buttons
 
 ## 👤 About the Author
 
-**Vibhuti Bhardwaj** — B.Com (Hons) Final Year Student with a keen interest in financial analysis and data-driven decision making. Currently building skills in financial modelling, data visualization and business analytics.
+**Vibhuti Bhardwaj** — B.Com (Hons) graduate with a keen interest in financial analysis and data-driven decision making. Currently building skills in financial modelling, data visualization and business analytics.
 
 **Skills:** Excel · Power BI · DAX · Power Query · Financial Statement Analysis · Forecasting
 
